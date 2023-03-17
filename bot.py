@@ -37,7 +37,7 @@ def process_chat(update, context):
 
 
 def main():
-   print('bot started')
+   print('bot started ....')
    upd= Updater(bot_token, use_context=True)
    disp=upd.dispatcher
 
